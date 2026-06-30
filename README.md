@@ -19,11 +19,7 @@ Welcome to my GitHub profile! I am a passionate developer who loves turning idea
 - **Version Control:** Git, GitHub
 - **Databases:** [Add here like MongoDB, MySQL, PostgreSQL]
 - **IDE/Tools:** VS Code, Postman
-
-## 📈 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbhalke137&layout=compact&theme=radical)
-
+- 
 ## 📫 Connect with me:
 - **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/ankit-bhalke)
 - **Portfolio:** [Your Portfolio Website URL](https://ankitbhalke137.github.io/profile-/portfoloi%20page.html)
