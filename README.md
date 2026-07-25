@@ -34,8 +34,8 @@ Passionate developer building modern web experiences. I love collaborating on op
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=percentile" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -67,5 +67,5 @@ A collaborative hub of 11 developers engineering modern web ecosystems from Pune
 <div align="center">
   <i>Let's build something amazing together!</i>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitbhalke137&theme=radical&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" width="600"/>
 </div>
