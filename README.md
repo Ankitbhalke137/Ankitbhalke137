@@ -34,12 +34,12 @@ Passionate developer building modern web experiences. I love collaborating on op
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=percentile" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=percentile" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbhalke137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbhalke137&layout=compact&theme=radical&hide_border=true" width="400"/>
 </div>
 
 ## 🏆 Featured Projects
