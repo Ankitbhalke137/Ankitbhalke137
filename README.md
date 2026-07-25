@@ -31,18 +31,6 @@ Passionate developer building modern web experiences. I love collaborating on op
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitbhalke137&theme=radical" alt="Contribution Graph" width="700"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitbhalke137&theme=radical" alt="Stats" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitbhalke137&theme=radical" alt="Languages" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="Streak" height="170"/>
-</div>
-
 ## 🏆 Featured Projects
 
 ### [Eduspear](https://github.com/Ankitbhalke137/Eduspear)
