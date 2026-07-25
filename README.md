@@ -53,10 +53,11 @@ A collaborative hub of 11 developers engineering modern web ecosystems from Pune
 
 ### More projects coming soon...
 
-## 📈 Weekly Activity
+## 📈 Activity Graph
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitbhalke137&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="700"/>
+</div>
 
 ## 📫 Connect With Me
 
