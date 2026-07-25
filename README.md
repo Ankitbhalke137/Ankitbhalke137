@@ -34,12 +34,13 @@ Passionate developer building modern web experiences. I love collaborating on op
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=percentile" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitbhalke137&theme=radical" alt="Contribution Graph" width="700"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbhalke137&layout=compact&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitbhalke137&theme=radical" alt="Stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitbhalke137&theme=radical" alt="Languages" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=radical&hide_border=true" alt="Streak" height="170"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -64,8 +65,6 @@ A collaborative hub of 11 developers engineering modern web ecosystems from Pune
 
 ---
 
-<div align="center">
+<p align="center">
   <i>Let's build something amazing together!</i>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitbhalke137&theme=radical&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" width="600"/>
-</div>
+</p>
