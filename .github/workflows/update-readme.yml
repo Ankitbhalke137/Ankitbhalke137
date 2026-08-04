@@ -1,0 +1,19 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update recent activity in profile README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: 'chore: update recent activity'
+          MAX_LINES: 10
