@@ -62,11 +62,11 @@ Live news aggregator using NewsData.io API with dark mode & bookmarks
 
 ### 🏛️ College Portal
 React 19 + Socket.io college management platform (directory, clubs, leaderboards, events)
-[📂 Repo](https://github.com/Ankitbhalke137/Dashboard-)
+[📂 Repo](https://github.com/Ankitbhalke137/college-portal)
 
 ### 💼 ProConnect
 Professional social network with real-time chat — Dockerized full-stack app
-[📂 Repo](https://github.com/Ankitbhalke137/app)
+[📂 Repo](https://github.com/Ankitbhalke137/proconnect-social-network)
 
 ---
 
