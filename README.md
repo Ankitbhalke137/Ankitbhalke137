@@ -74,11 +74,11 @@ Professional social network with real-time chat — Dockerized full-stack app
 
 <div align="center">
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitbhalke137&show_icons=true&theme=tokyonight&count_private=true)
+![Followers](https://img.shields.io/github/followers/Ankitbhalke137?style=for-the-badge&logo=github&label=Followers&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/Ankitbhalke137?style=for-the-badge&logo=github&label=Stars&color=blueviolet)
+![Repos](https://img.shields.io/badge/Repositories-15-blueviolet?style=for-the-badge&logo=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbhalke137&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankitbhalke137&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=tokyonight)
 
 </div>
 
