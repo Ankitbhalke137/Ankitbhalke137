@@ -90,7 +90,6 @@ Professional social network with real-time chat — Dockerized full-stack app
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_start-->
-*Last updated: --
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
