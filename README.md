@@ -78,19 +78,9 @@ Professional social network with real-time chat — Dockerized full-stack app
 ![Stars](https://img.shields.io/github/stars/Ankitbhalke137?style=for-the-badge&logo=github&label=Stars&color=blueviolet)
 ![Repos](https://img.shields.io/badge/Repositories-15-blueviolet?style=for-the-badge&logo=github)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitbhalke137&theme=tokyonight)
 
 </div>
 
----
-
-## 📈 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update_start-->
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
